@@ -1,0 +1,17 @@
+{
+  "name": "discord-banner-updater",
+  "version": "1.0.0",
+  "description": "A script to update a Discord user's banner using the Discord API.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"  // Ensure this is the latest version compatible with your Node.js version
+  },
+  "engines": {
+    "node": ">=16.0.0"  // Adjust according to your Node.js version
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
