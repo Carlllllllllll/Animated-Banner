@@ -1,7 +1,7 @@
 const { readFileSync } = require("node:fs");
 
-const token = 'Bot Token Here';                     // Put your Bot's Token
-const newBanner = readFileSync('./Rick-Roll.gif');  // Path to your new banner file in this case Rick-Roll is our example
+const token = '';                     // Put your Bot's Token
+const newBanner = readFileSync('./Gido-Banner-Carl.gif');  // Path to your new banner file in this case Rick-Roll is our example
 
 (async () => {
 
